@@ -9,8 +9,8 @@ This pack contains:
 - 1 meadow/plain map
 - 1 swamp map
 - 1 mountain map
+- 1 village merchant map
 - 1 village tavern map
-- 1 town tavern map
 
 Feel free to try and use these maps however you like.
 
@@ -23,3 +23,4 @@ Recommended modules to improve the final rendering (which are already configured
 - Simple Calendar (by Vigoren) [Free]
 - SmallTime (by Unsoluble) [Free]
 - LightSwitch (by TheRipper93) [Paid]
+- Arms Reach
