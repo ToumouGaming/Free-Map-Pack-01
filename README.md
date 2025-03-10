@@ -2,9 +2,11 @@
 [UU] Free-Map-Pack-01
 
 Here is a pack of maps for FoundryVTT to discover my creations.
-All maps are made in 3D perspective and use 3D assets. Then the trees are added on a new layer, managed by the Levels module (by TheRipper93)
+All maps are made in 3D perspective and use 3D assets. Trees and structure's floors are added on a new layer, managed by the Levels module (by TheRipper93)
 
-This pack contains:
+To manually install this pack on your FoundryVTT server, use this url : https://github.com/ToumouGaming/Free-Map-Pack-01/releases/download/free-maps-pack-01/module.json
+
+Content :
 - 1 forest map
 - 1 meadow/plain map
 - 1 swamp map
@@ -21,5 +23,5 @@ Recommended modules to improve the final rendering (which are already configured
 - Monk's Active Tile Triggers (by IronMonk) [Free]
 - Simple Calendar (by Vigoren) [Free]
 - SmallTime (by Unsoluble) [Free]
+- Arms Reach (by Psyny) [Free]
 - LightSwitch (by TheRipper93) [Paid]
-- Arms Reach
