@@ -8,7 +8,6 @@ This pack contains:
 - 1 forest map
 - 1 meadow/plain map
 - 1 swamp map
-- 1 mountain map
 - 1 village merchant map
 - 1 village tavern map
 
