@@ -5,7 +5,7 @@ Here is a pack of maps for FoundryVTT to discover my creations.
 All maps are made in 3D perspective and use 3D assets. Trees and structure's floors are added on a new layer, managed by the Levels module (by TheRipper93)
 
 To manually install this pack on your FoundryVTT server, use this url :
-https://github.com/ToumouGaming/Free-Map-Pack-01/releases/download/0.0.1/module.json
+https://github.com/ToumouGaming/Free-Map-Pack-01/releases/download/0.0.2/module.json
 
 Content :
 - 1 forest map
